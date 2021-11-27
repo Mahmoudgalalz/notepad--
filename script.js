@@ -33,8 +33,8 @@ let timeString = `${weekdays[now.getDay()]}, ${months[
 ]} ${now.getDate()}`;
 let broadTime =
   now.getHours() < 12
-    ? "morning, KroKing"
-    : now.getHours() > 17 ? "evening, KroKing" : "afternoon, KroKing";
+    ? "morning, Vios"
+    : now.getHours() > 17 ? "evening, Vios" : "afternoon, Vios";
 
 g.innerHTML = `Good ${broadTime}. It is ${timeString}.`;
 
