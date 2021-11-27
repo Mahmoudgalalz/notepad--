@@ -2,12 +2,23 @@
 <html>
     <head>
         <title>Notpad--</title>
+        <link rel="shortcut icon" type="image/png" href="favicon.png"/>
         <link rel="stylesheet" href="style.css">
+        <script src="darkmode.js"></script>
     </head>
     
     <body>
-        <nav class="continer">
-
+        <nav class="sw">
+            <p>Dark-Mood</p>
+            <label class="switch">
+            <input id="theme-switcher" type="checkbox">
+            <span class="slider round"></span>
+          </label></nav>
+          <nav class="cont-pad">
+            <p class="pad"></p>
+            <textarea placeholder="Take notes." class="notepad"></textarea>
+            <script src="script.js"></script>
         </nav>
+        
     </body>
 </html>
