@@ -1,13 +1,18 @@
 # notepad--
 notepad for lazy people, like me
 
+
+
+# If you want your own one
+<strong>There's two kind of use if you want to use it </strong>
+-As browser extension
+  +download the package and install it to your browser
+  How to install it to your browser
+-As web application 
+  + Frok this repo 
+  + Deploy a github page 
+
+# Contribution 
 If you need to contribute so head on do what you want
-
-If you want your own one
--open this link
-
-<a href="https://mahmoudgalalz.github.io/notepad--/" target="_blank">Notepad--</a>
-
--then press Ctrl+S to Save it;
-
--Save it into your Desktop, and have fun.
+-requset issue
+-Pull request
