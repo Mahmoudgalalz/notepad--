@@ -9,7 +9,7 @@ notepad for lazy people, like me
 
 -As browser extension
   + Download the package and install it to your browser
-  - How to install it to your browser
+  -  [How to install it to your browser](install/readme.md)
   
   
 -As web application 
